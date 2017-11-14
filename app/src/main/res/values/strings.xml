@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Makan Kundali</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change_email">Change EMAIL</string>
+    <string name="btn_change_pass">Change PASSWORD</string>
+    <string name="btn_send">Send Password Reset Email</string>
+    <string name="btn_remove">Remove User</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Send Verification Code</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Didn\'t get code? Resend.</string>
+    <string name="owner">Owner</string>
+    <string name="tenant">Tenant</string>
+    <string name="my_house">My House(s)</string>
+    <string name="houses">Houses</string>
+
+
+    <string-array name="colors">
+        <item>@color/primary</item>
+        <item>@color/accent</item>
+        <item>@color/Brown</item>
+        <item>@color/Cyan</item>
+        <item>@color/Beige</item>
+        <item>@color/Coral</item>
+        <item>@color/Chocolate</item>
+        <item>@color/Green</item>
+        <item>@color/DarkViolet</item>
+        <item>@color/WhiteSmoke</item>
+        <item>@color/Black</item>
+        <item>@color/Blue</item>
+        <item>@color/DarkRed</item>
+        <item>@color/DodgerBlue</item>
+        <item>@color/YellowGreen</item>
+    </string-array>
+
+    <string name="slide_1_desc">Getting Stressed while finding good home/tenant. No worries we will be there for you.</string>
+    <string name="slide_2_desc">We can guarantee you for best and latest design within your project. This design makes you comfortable in growing designotech world.</string>
+    <string name="slide_3_desc">By making smoother and robust navigation according to your requirements and specification it is easy to find your business solution.</string>
+    <string name="slide_4_desc">Simply just by registering in the application you can put your project details along with your contact details. We\'ll contact you as soon as possible to start your work in more progressive way.</string>
+    <string name="slide_5_desc">You will find the 24/7 online support regarding your project works. This will make you comfortable with any technical issues in your project. Our technical team help you in your technical issue throughout the session of your project.</string>
+
+</resources>
